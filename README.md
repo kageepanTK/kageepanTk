@@ -105,7 +105,7 @@ A web application project for managing electronic shop operations and role-based
 ## 🤝 Connect With Me
 
 - **GitHub:** [@kageepanTK](https://github.com/kageepanTK)
-- **LinkedIn:** Kageepan_TK(linkedin.com/in/kajeepan-tk-660368334)
+- **LinkedIn:** [Kageepan_TK](linkedin.com/in/kajeepan-tk-660368334)
 - **Email:** `[Add your professional email address]`
 - **Portfolio:** `[Add your portfolio URL, if available]`
 
